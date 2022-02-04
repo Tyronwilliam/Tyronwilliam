@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 <li>👀 I’m interested in Front-End and Back-End development</li>
 <li>💞️I would like to gain experience to develop my knowledge and teach it later</li>
 <li>👨‍💻 I'm Tay on twitter if you want to 📲</li>
-<li>New project coming soon...</li>
+<li>👉 New project coming soon...</li>
 </ul>
 
