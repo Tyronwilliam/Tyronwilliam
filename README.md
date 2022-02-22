@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 <li>👉 New project coming soon...</li>
   <li>🌐 Here's my Portfolio : <a href="https://tyron-william.netlify.app" target="blank">Let's go <a/></li>
 </ul>
-![Capture](https://user-images.githubusercontent.com/70233964/155163278-d9ef237f-b49d-4f4d-869e-f883e569607d.PNG)"
+![](https://user-images.githubusercontent.com/70233964/155163278-d9ef237f-b49d-4f4d-869e-f883e569607d.PNG)"
 
