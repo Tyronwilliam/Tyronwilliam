@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <li>🌱 I’m currently improving my Front-End and Back-End skills on React , NextJS , Tailwind , Nodejs, TypeScript, SQL </li>
 <li>👀 I’m interested in Front-End and Back-End development</li>
 <li>💞️I would like to gain experience to develop my knowledge and teach it later</li>
-<li>Portfolio : <a href='https://tyonwilliam.vercel.app/'>I'm curious</a></li>
+<li>Portfolio : <a href='https://tyronwilliam.vercel.app/'>I'm curious</a></li>
 
 
 
