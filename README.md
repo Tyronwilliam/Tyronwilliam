@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 <li>💞️ In the future, I would like to teach all my knowledge.</li>
 <li>Portfolio : <a href='https://www.frenchwebdeveloper.com/'>I'm curious</a></li>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyronwilliam)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyronwilliam&theme=radical)]
 
 
