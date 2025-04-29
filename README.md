@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 <li>Portfolio : <a href='https://www.frenchwebdeveloper.com/'>I'm curious</a></li>
 <li>Working at : <a href='https://www.veepee.fr/experiences/veepee-ad/#/'>Veepee|ad</a></li>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyronwilliam&theme=radical)]
 
 
